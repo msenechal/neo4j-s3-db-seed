@@ -1,4 +1,4 @@
-# KGS-UPLOAD-API
+# UPLOAD-API
 This API is a python fastAPI designed to load Neo4j dumps/backups from an S3 bucket.
 
 ## Documentation
